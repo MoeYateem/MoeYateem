@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://github.com/MoeYateem)
-[![website](./img/instagram-light.svg)](https://www.instagram.com/moe_yateem/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mdhaini_/)
 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" style="padding-right:10px;" />
